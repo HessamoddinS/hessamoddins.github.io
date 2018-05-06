@@ -35,6 +35,7 @@ body {
   height: 100%;
   background-color: #212049;
   font-family: 'Roboto', sans-serif;
+  overflow: auto;
 }
 
 body {
@@ -49,6 +50,10 @@ body {
   max-width: 42em;
 }
 
+main {
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
 
 /*
  * Header
